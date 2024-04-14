@@ -7,3 +7,5 @@ from django.http import HttpResponse
 class PostView(View):
     def get(self, request, *args, **kwargs):
         return HttpResponse('Resposta da view PostView para GET')
+
+
