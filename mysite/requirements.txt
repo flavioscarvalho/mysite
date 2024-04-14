@@ -1,6 +1,8 @@
-asgiref==3.8.1
+llasgiref==3.8.1
 colorama==0.4.6
+crispy-bootstrap4==2024.1
 Django==5.0.3
+django-crispy-forms==2.1
 factory-boy==3.3.0
 Faker==24.4.0
 iniconfig==2.0.0
